@@ -6,8 +6,10 @@
         "description1": "1.Hospital related website",
         "description2": "2.Patient get all services from us",
         "description3": "3.We care about our patients",
-        "language": "React, CSS, Bootstrap, Firebase",    
-        "imageURL": "https://i.ibb.co/xzYwZxc/carezone.png"
+        "imageURL": "https://i.ibb.co/xzYwZxc/carezone.png",
+        "live": "https://carezone-hospital.firebaseapp.com/",
+        "client": "https://github.com/ifaz5/carezone-hospital",
+        "server": ""
     },
     {
         "_id": "2",
@@ -16,8 +18,10 @@
         "description1": "1.Travelling related react website",
         "description2": "2.Admin cand add products",
         "description3": "3.customers can book places",
-        "language": "React, CSS, Bootstrap,Material UI Firebase",
-        "imageURL": "https://i.ibb.co/QYsbSMb/nature.png"
+        "imageURL": "https://i.ibb.co/QYsbSMb/nature.png",
+        "live": "https://visitnature-ifaz.web.app/",
+        "client": "https://github.com/ifaz5/visitnature",
+        "server": "https://github.com/ifaz5/visitnature-server"
     },
     {
         "_id": "3",
@@ -26,7 +30,8 @@
         "description1": "1.Language course related website",
         "description2": "2.Courses available",
         "description3": "3.Best teacher teaches",
-        "language": "React, CSS",
-        "imageURL": "https://i.ibb.co/2Pr8VXp/Screenshot-36.png"
+        "imageURL": "https://i.ibb.co/2Pr8VXp/Screenshot-36.png",
+        "live": "https://langlearner.netlify.app/",
+        "client": "https://github.com/ifaz5/langLearner"
     }
 ]
