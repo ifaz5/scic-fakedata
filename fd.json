@@ -6,7 +6,7 @@
         "description1": "1.Hospital related website",
         "description2": "2.Patient get all services from us",
         "description3": "3.We care about our patients",
-        "imageURL": "https://i.ibb.co/zHNGxgT/template-1.png",
+        "imageURL": "https://i.ibb.co/Tqrm2Gx/template-1.png",
         "live": "https://carezone-hospital.firebaseapp.com/",
         "client": "https://github.com/ifaz5/carezone-hospital",
         "server": ""
@@ -18,7 +18,7 @@
         "description1": "1.Travelling related react website",
         "description2": "2.Admin cand add products",
         "description3": "3.customers can book places",
-        "imageURL": "https://i.ibb.co/HT9w7tp/template.png",
+        "imageURL": "https://i.ibb.co/0yz4qCV/template.png",
         "live": "https://visitnature-ifaz.web.app/",
         "client": "https://github.com/ifaz5/visitnature",
         "server": "https://github.com/ifaz5/visitnature-server"
@@ -30,7 +30,7 @@
         "description1": "1.Language course related website",
         "description2": "2.Courses available",
         "description3": "3.Best teacher teaches",
-        "imageURL": "https://i.ibb.co/MBhBdGK/template-2.png",
+        "imageURL": "https://i.ibb.co/QDcD0Ch/template-2.png",
         "live": "https://langlearner.netlify.app/",
         "client": "https://github.com/ifaz5/langLearner"
     }
